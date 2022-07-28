@@ -1,16 +1,22 @@
 ### Hi there 👋
 
-<!--
-**liaoliao666/liaoliao666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Thanks for visiting my GitHub profile, it's great to meet you here! 😊**  
 
-Here are some ideas to get you started:
+Hi, I'm [Arthur](https://liaoliao666-portfolio.vercel.app), a passionate self-taught full-stack web developer from Shenzhen.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working at [Lalamove](https://www.lalamove.com/en-hk/).
+- 🌱 I’m currently learning NestJs, Prisma & PostgreSQL.
+- 📫 How to reach me: 1076988944@qq.com
+- 💬 Ask me about anything [Here](https://github.com/liaoliao666/liaoliao666/issues)
+
+Last, I hope one day I can be a superman.
+
+
+**Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+
+*MOTTO: Be led by your guiding principles, not a slogan...*
